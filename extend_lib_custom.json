@@ -1,0 +1,55 @@
+[
+  {
+    "code": "LyS_1PEG2",
+    "smiles": "NCCCC[C@H](NC(=O)OCCOCCO)C(=O)O",
+    "polymer_type": "PEPTIDE",
+    "type": "PEPTIDE"
+  },
+  {
+    "code": "LyS_Dimethyl2",
+    "smiles": "CN(C)CCCC[C@H](N)C(=O)[OH:2]",
+    "polymer_type": "PEPTIDE",
+    "type": "PEPTIDE"
+  },
+  {
+    "code": "Lys_Me_1PEG2",
+    "smiles": "CNCCCC[C@H](NC(=O)OCCOCCO)C(=O)O",
+    "polymer_type": "PEPTIDE",
+    "type": "PEPTIDE",
+    "aliases": [
+      "Lys_Me_1PEG2"
+    ],
+    "components": [
+      "Lys",
+      "Me",
+      "1PEG2"
+    ]
+  },
+  {
+    "code": "Lys_Me_1PEG2_TEST",
+    "smiles": "CN(C)CCCC[C@H](N)C(=O)[OH:2]",
+    "polymer_type": "PEPTIDE",
+    "type": "PEPTIDE",
+    "aliases": [
+      "Lys_Me_1PEG2"
+    ]
+  },
+  {
+    "code": "Lys_Me_1PEG2_TEST2",
+    "smiles": "CN(C)CCCC[C@H](N)C(=O)[OH:2]",
+    "polymer_type": "PEPTIDE",
+    "type": "PEPTIDE"
+  },
+  {
+    "code": "dNle_test",
+    "smiles": "N[C@@H](CCCC)C(=O)[OH:2]",
+    "polymer_type": "PEPTIDE",
+    "type": "PEPTIDE"
+  },
+  {
+    "code": "dNle_test2",
+    "smiles": "N([C@@H](CCCC)C(=O)[OH:2])[H:1]",
+    "polymer_type": "PEPTIDE",
+    "type": "PEPTIDE"
+  }
+]

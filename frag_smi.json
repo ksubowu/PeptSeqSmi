@@ -1,0 +1,8 @@
+{
+  "1PEG2": "[*:1]OCCOCCO[*:2]",
+  "C12": "CCCCCCCCCCCC(=O)[*:1]",
+  "LyS": "NCCCC[C@H](N)C(=O)O",
+  "LyS_1PEG2_1PEG2_C12": "CCCCCCCCCCCC(=O)N[C@@H](CCC(=O)NCCOCCOCC(=O)NCCOCCOCC(=O)NCCCC[C@H](N)C(=O)O)C(=O)O",
+  "LyS_Dimethyl": "CN(C)CCCC[C@H](N)C(=O)O",
+  "Me2": "CN(C)"
+}

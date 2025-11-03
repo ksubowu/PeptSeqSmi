@@ -1,2 +1,0 @@
-# make webapp a package
-
